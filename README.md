@@ -8,8 +8,8 @@
 ## Aulas
 - [x] Rota para criar uma aula;
 - [x] Rota para listar aulas;
-    - [x] Filtrar por maéria, dia da semana e horário;
+    - [x] Filtrar por matéria, dia da semana e horário;
 
 
 ## Usuários
-- [ ] Rota para criar usuários;
+- [x] Rota para criar usuários;
